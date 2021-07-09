@@ -19,6 +19,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/loveday2002/urban-chainsaw/issues"
     },
     license='MIT',
-    packages=['toolbox'],
+    packages=['urban-chainsaw'],
     install_requires=['requests'],
 )
